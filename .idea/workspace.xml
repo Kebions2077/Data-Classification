@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6910b42d-5a8f-44a6-9fac-24deb3cf8948" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Array.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bubblesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_Basic/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Basic/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Basic/String_Manipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/String_Manipulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +34,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Array.executor": "Coverage",
+    "Application.Array.executor": "Debug",
     "Application.Calculator.executor": "Debug",
     "Application.Condition.executor": "Run",
     "Application.Hello.executor": "Coverage",
     "Application.hello.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Kevin/AppData/Roaming/JetBrains/IdeaIC2025.2/scratches",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="Data-Classification" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\AppData\Roaming\JetBrains\IdeaIC2025.2\scratches" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Array">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,7 +87,6 @@
       <list>
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Condition" />
       </list>
     </recent_temporary>

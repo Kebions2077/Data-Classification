@@ -1,0 +1,11 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "java.debug.settings.onBuildFailureProceed": true
+}
