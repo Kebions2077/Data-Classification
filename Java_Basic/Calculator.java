@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Calculator {
 
     public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class Calculator {
             while (op != 5) {
                 
                 System.out.println("-----------------Calculator-----------------");
-                System.out.println("1) Add\n2) Sub\n3) Mult\n4) Div\n5)Comparator\n6) Exit");
+                System.out.println("1) Add\n2) Sub\n3) Mult\n4) Div\n5)Comparator\n6)Pow");
                 System.out.println("--------------------------------------------");
                 System.out.print("Enter an option: ");
                 op = sc.nextInt();
@@ -72,7 +73,14 @@ public class Calculator {
                             System.out.println("Different Numbers");
                         }
                     }
-                    case 6 -> System.out.println("Exiting...");
+                    case 6 -> {
+                        System.out.print("Enter First Number: ");
+                        array[0]= sc.nextInt();
+                        System.out.print("Enter Second Number: ");
+                        array[1] = sc.nextInt();
+                        array[2]=Math.powExact(array[0],array[1]);
+                        System.out.println("["+array[0]+"]^["+array[1]+"]=["+array[2]+"]");
+                    }
                 }
             }
         }
